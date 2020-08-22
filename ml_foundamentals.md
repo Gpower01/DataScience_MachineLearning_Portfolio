@@ -78,14 +78,16 @@ Regression is applied when a model attempts to predict continous values (unlike 
 - Attempting to predict the price of a house based on the country it is located would be a classification problem.
 
 ## Common Evaluation Metrics for Regression Problems
-- Mean Absolute Error(MAE)
-![mean_absolute_error](./images/MAE.png) 
 
-- Mean Square Error(MSE)
-![mean_sqaure_error](./images/MSE.png)
+- Mean Absolute Error (MAE)
+![Mean_Absolute_Error](./images/MAE.png)
 
-- Root Mean Square Error(RMSE)
-![root_mean_sqaure_error](./images/RMS.png)
+- Mean Square Error (MSE)
+![Mean_Square_Error](./images/MSE.png)
+
+- Root Mean Square Error (RMSE)
+![Mean_Square_Error](./images/RSM.png)
+ 
 
 **Important Notes**
 - MAE won't punish large errors but we want to make sure that we are aware of this and account for the outliers.
