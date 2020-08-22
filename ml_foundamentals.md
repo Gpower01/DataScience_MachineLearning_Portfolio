@@ -82,8 +82,12 @@ Regression is applied when a model attempts to predict continous values (unlike 
 - Mean Absolute Error (MAE)
 ![Mean_Absolute_Error](./images/MAE.png)
 
+
+
 - Mean Square Error (MSE)
 ![Mean_Square_Error](./images/MSE.png)
+
+
 
 - Root Mean Square Error (RMSE)
 ![Mean_Square_Error](./images/RSM.png)
