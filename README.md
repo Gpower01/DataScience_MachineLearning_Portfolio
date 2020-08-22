@@ -20,7 +20,7 @@ This section documents the detial processes involved in machine learning and tra
 
 ### Scikit-learn Estimator Object
 
-- **Estimators*** allows you fit models
+- **Estimators*** allows you fit models and do the following:
  - model.fit():fit training data
  - For supervised learning applications, this accepts two argumnents: the data X and the labels y (e.g. model.fit(x,y)).
  - For unsupervised learning applications, this accepts only a single argument, the data x (e.g. model.fit(x)).
