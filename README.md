@@ -6,7 +6,7 @@
 This section documents the detial processes involved in machine learning and traing a machine learning model.
 
  - [machine_learning_process](./ml_foundamentals.md)
- ![ml_application](./images/ml_application.png) 
+ ![ml_processes](./images/ML_Process.png) 
 
 ## Machine Learning Package
 
