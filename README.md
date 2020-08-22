@@ -13,7 +13,7 @@ This section documents the detial processes involved in machine learning and tra
 - Every algorithm in scikit-learn is exposed via an estimator and you will need to install it using either:
 
 - `pip install scikit-learn`
-or
+- or
 - `conda install scikit-learn`
 
 ### Scikit-learn Estimator Object:
