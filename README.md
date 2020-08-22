@@ -12,9 +12,9 @@ This section documents the detial processes involved in machine learning and tra
 **Scikit-Learn package** is the most popular machine learning package for python and has a lot of built-in algorithms.
 - Every algorithm in scikit-learn is exposed via an estimator and you will need to install it using either:
 
-`pip install scikit-learn`
+- `pip install scikit-learn`
 or
-`conda install scikit-learn`
+- `conda install scikit-learn`
 
 ### Scikit-learn Estimator Object:
 
@@ -42,7 +42,7 @@ or
 - predicted model using linear regression trained model
 ![predicted_model](./images/predicted_test.png) 
 
-- Normally Distributed Model Results
+- Normally Distributed Predicted Model Results
 ![normally_dsn_model](./images/predicted_ted_dsn.png) 
 
 
