@@ -5,7 +5,7 @@
 ## Machine Learning Process
 This section documents the detial processes involved in machine learning and traing a machine learning model.
 
- - [machine_learning_process](./ml_foundamentals.md)
+ - **[machine_learning_process](./ml_foundamentals.md)**
 
  The link above provided important information in machine learning 
  ![ml_processes](./images/ML_Process.png) 
