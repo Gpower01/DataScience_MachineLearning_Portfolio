@@ -79,17 +79,17 @@ Regression is applied when a model attempts to predict continous values (unlike 
 
 ## Common Evaluation Metrics for Regression Problems
 
-- Mean Absolute Error (MAE)
+- **MEAN ABSOLUTE ERROR (MAE)**
 ![Mean_Absolute_Error](./images/MAE.png)
 
 
 
-- Mean Square Error (MSE)
+- **MEAN SQUARE ERROR (MSE)**
 ![Mean_Square_Error](./images/MSE.png)
 
 
 
-- Root Mean Square Error (RMSE)
+- **ROOT MEAN SQUARE ERROR (RMSE)**
 ![Mean_Square_Error](./images/RSM.png)
  
 
