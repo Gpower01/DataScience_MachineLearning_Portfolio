@@ -78,6 +78,13 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 ![linear_regression_transformation](./images/Logistic_model.png)
 
+## Evaluating a Logistic Regression Model
+
+ After training a logistic regression model, we can evaluate the performance of our model using:
+
+ - **Confusion Matrix**
+ - **Rate Accuracy**: This is how often is the correct prediction and can be calculated by: (TP + FN)/Total
+ - **Miclassification Rate**: This is the overall error rate which is calculated by: (FP + FN)/Total
 
 
 
