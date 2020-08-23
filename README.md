@@ -78,7 +78,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 ![linear_regression_transformation](./images/Logistic_model.png)
 
-## Evaluating a Logistic Regression Model
+## Evaluating Logistic Regression Model
 
  After training a logistic regression model, we can evaluate the performance of our model using:
 
