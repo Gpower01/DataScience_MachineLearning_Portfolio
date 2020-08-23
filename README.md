@@ -47,6 +47,7 @@ This section documents the detial processes involved in machine learning and tra
 - Normally Distributed Predicted Model Results
 ![normally_dsn_model](./images/predicted_ted_dsn.png) 
 
+# Cross Validation and Bias Variance Trade-Off
+- Bias Variance is a fundamnetal topic for understanding model performance. For a more indepth understanding, you can review **chapter 2** of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)**. For a brief discussion see:
 
-
-
+- **[BAIS-VARIANCE_TRADE-OFF](./Bias-Variance_Trade-Off.md)**
