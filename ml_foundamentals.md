@@ -126,11 +126,22 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 - Chapter of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. discuss in detail K_Nearest_Neighbors (KNN).
 
-### Important Points About KNN
+## Important Points About KNN
 - It is very easy to train and can work with any number of classes. However it is also equally important to remember that **Choosen K** will affect which new point that can be assigned. 
 - It have a high prediction cost(meaning that it performs worse for large dataset)
 - Not a good choice for highly deimensional dataset
 - And it doesn't work well with categrorical dataset
+
+### KNN Training Algorithm 
+- First store all the Data
+
+### KNN Prediction Algorithm
+- Calculate the distance from X to all points in your data 
+- Sort the points in your data by increasing distance from X
+- predict the majority label of the "k" closest points
+
+![KNN_prediction](./images/KNN_1.png)
+
 
 
 
