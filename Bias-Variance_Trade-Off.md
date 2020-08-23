@@ -1,8 +1,8 @@
 # Cross Validation and Bias Variance Trade-Off
 
-**[Validation Curves](https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_bias_variance.html)**
+- See **[Cross Validation Curves](https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_bias_variance.html)**
 
-- Bias Variance is a fundamnetal topic for understanding model performance. For a more indepth understanding, you can review chapter 2 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)**.
+- Bias Variance is a fundamnetal topic for understanding model performance. For a more indepth understanding, you can review **chapter 2** of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)**.
 
 ## Simple Model vs Complex Model
 ![Simple_model_vs_complex_model](./images/simple_complex_model.png)
