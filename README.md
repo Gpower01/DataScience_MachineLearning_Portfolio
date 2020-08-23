@@ -69,7 +69,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
 ## Example of Logistic Regression Curve
 ![logistic_regression_model](./images/LGRC.png)
 
-# Transformation of Linear Regression Curve to Logistic Regression Curve
+## Transformation of Linear Regression to Logistic Regression Curve
 
 ![linear_regression_transformation](./images/LNRG_LGRG.png)
 
