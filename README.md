@@ -35,6 +35,7 @@ This section documents the detial processes involved in machine learning and tra
  - model.transform(): given an unsupervised model, transform new data into the new basis. This accepts one argument x_new, and rteurns the new representation of the data based on the unsupervised learning.
  - model.fit_transform(): some estimators implement this method, which more efficiently performs a fit and a transform the same input data.
  
+## Linear Regression
 
 ### Result Examples
 
