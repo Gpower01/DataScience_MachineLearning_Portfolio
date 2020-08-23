@@ -86,6 +86,9 @@ Logistic Regression allows us to solve classification problems, where we try to 
  - **Rate Accuracy**: This is how often is the correct prediction and can be calculated by: (TP + FN)/Total
  - **Miclassification Rate**: This is the overall error rate which is calculated by: (FP + FN)/Total
 
+## More Information 
+ - **[MACHINE_LEARNING_PROCESSES](./ml_foundamentals.md)**
+
 
 
 
