@@ -67,7 +67,7 @@ $$ F_1 = 2* (precision * recall / precision + recall)  $$
 
 ![confusion_matrix](./images/confusion_matrix2.png) 
 
-Note: We always try to minimise the **False Negatives** especially in disease diagnosis.
+**Note: our goal is to try to minimise the False Negatives** 
 
 # Evaluating Model Performance for Regression problems
 
