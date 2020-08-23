@@ -49,6 +49,49 @@ This section documents the detial processes involved in machine learning and tra
 ![normally_dsn_model](./images/predicted_ted_dsn.png) 
 
 # Cross Validation and Bias Variance Trade-Off
-- Bias Variance is a fundamnetal topic for understanding model performance. For a more indepth understanding, you can review **chapter 2** of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)**. For a brief discussion see:
+- Bias Variance is a fundamnetal topic for understanding model performance. For a more indepth understanding, you can review **chapter 2** of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. For a brief discussion see:
 
 - **[BAIS-VARIANCE_TRADE-OFF](./Bias-Variance_Trade-Off.md)**
+
+## Logistic Regression
+
+Logistic Regression allows us to solve classification problems, where we try to predict discrete categories.
+
+- For more information on **Logistic Regression** read section 4-4.3 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al.
+
+- We cannot uses a normal regression model on binary groups. It won't give a good fit. So instead, we will transform our linear regression model to logistic regression curves.
+
+## Example of Linear Regression Curve
+![linear_regression_model](./images/LNRC.png)
+
+- Transform the linear regression curve to logistic regression curve
+
+## Example of Logistic Regression Curve
+![logistic_regression_model](./images/LGRC.png)
+
+# Transformation of Linear Regression Curve to Logistic Regression Curve
+
+![linear_regression_transformation](./images/LNRG_LGRG.png)
+
+# Logist Regression Mathematical Calculation
+- The Sigmoid (aka Logistic) Function takes in any value and outputs it to between 0 and 1.
+
+![linear_regression_transformation](./images/Logistic_model.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
