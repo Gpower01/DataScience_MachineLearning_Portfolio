@@ -142,7 +142,5 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 ![KNN_prediction](./images/KNN_1.png)
 
-# Decision Trees and Random Forests
-
 
 
