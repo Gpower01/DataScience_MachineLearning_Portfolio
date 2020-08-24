@@ -91,17 +91,13 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 
 
+
+
+
+
+
+
+
+
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
-
-
-
-
-
-
-
-
-
-
-
-
 
