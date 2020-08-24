@@ -124,7 +124,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 # K Nearest Neighbors (KNN)
 
-- Chapter of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. discuss in detail K_Nearest_Neighbors (KNN).
+- Chapter 4 of **[Introduction to Statistical Learning](https://blog.princehonest.com/stat-learning/)** by Gareth James, et al. discuss in detail K_Nearest_Neighbors (KNN).
 
 ## Important Points About KNN
 - It is very easy to train and can work with any number of classes. However it is also equally important to remember that **Choosen K** will affect which new point that can be assigned. 
@@ -142,6 +142,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
 
 ![KNN_prediction](./images/KNN_1.png)
 
+# Decision Trees and Random Forests
 
 
 
