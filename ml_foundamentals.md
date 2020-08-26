@@ -81,6 +81,7 @@ Regression is applied when a model attempts to predict continous values (unlike 
 
 - **MEAN ABSOLUTE ERROR (MAE)**
 ![Mean_Absolute_Error](./images/MAE.png)
+<img src="./images/MAE.png" width="600" height="200">
 
 
 
