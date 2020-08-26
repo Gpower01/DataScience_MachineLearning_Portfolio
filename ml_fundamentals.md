@@ -139,7 +139,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
 - Sort the points in your data by increasing distance from X
 - predict the majority label of the "k" closest points
 
-<img src="./images/KNN_1.png" width="400" height="800">
+<img src="./images/KNN_1.png" width="400" height="400">
 
 
 
