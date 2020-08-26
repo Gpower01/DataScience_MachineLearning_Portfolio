@@ -5,7 +5,7 @@
 ## Machine Learning Process
 This section documents the detial processes involved in machine learning and traing a machine learning model.
 
- - **[MACHINE_LEARNING_PROCESSES](./ml_foundamentals.md)**
+ - **[MACHINE_LEARNING_PROCESSES](./ml_fundamentals.md)**
 
  ![ml_processes](./images/ML_Process.png) 
 
@@ -87,7 +87,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
  - **Miclassification Rate**: This is the overall error rate which is calculated by: (FP + FN)/Total
 
 ## More Information 
- - **[MACHINE_LEARNING_PROCESSES](./ml_foundamentals.md)**
+ - **[MACHINE_LEARNING_PROCESSES](./ml_fundamentals.md)**
 
 
 

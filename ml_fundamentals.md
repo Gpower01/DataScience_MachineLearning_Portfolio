@@ -89,7 +89,7 @@ Regression is applied when a model attempts to predict continous values (unlike 
 
 
 - **ROOT MEAN SQUARE ERROR (RMSE)**
-![Mean_Square_Error](./images/RSM.png)
+<img src="./images/RSM.png" width="400" height="100">
  
 
 **Important Notes**
@@ -139,7 +139,7 @@ Logistic Regression allows us to solve classification problems, where we try to 
 - Sort the points in your data by increasing distance from X
 - predict the majority label of the "k" closest points
 
-![KNN_prediction](./images/KNN_1.png)
+<img src="./images/KNN_1.png" width="400" height="100">
 
 
 
