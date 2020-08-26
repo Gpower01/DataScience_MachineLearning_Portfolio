@@ -80,8 +80,7 @@ Regression is applied when a model attempts to predict continous values (unlike 
 ## Common Evaluation Metrics for Regression Problems
 
 - **MEAN ABSOLUTE ERROR (MAE)**
-![Mean_Absolute_Error](./images/MAE.png)
-<img src="./images/MAE.png" width="600" height="200">
+<img src="./images/MAE.png" width="400" height="100">
 
 
 
